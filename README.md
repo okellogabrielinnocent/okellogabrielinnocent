@@ -1,9 +1,6 @@
 ### Hi, I'm Gabriel 👋
 A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Nodejs / Python | Django, Angular, Ionic, PHP | Laravel and some other cool libraries and frameworks.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellogabrielinnocent&show_icons=true&theme=radical)
-
-
 Software Enginer
 CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE STACK
 
@@ -14,6 +11,9 @@ angular | python | docker | html-5 | css3 | JavaScript | nodejs | npm |sql-datab
 ⚡ Mobile apps with Angular Ionic framework
 
 ⚡ Integration of third party services such as CodeClimate/ Heroku / AWS / Digital Ocean
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellogabrielinnocent&show_icons=true&theme=radical)
+
 <!--
 **okellogabrielinnocent/okellogabrielinnocent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
