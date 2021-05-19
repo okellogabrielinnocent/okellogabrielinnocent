@@ -1,7 +1,7 @@
 ### Hi, I'm Gabriel 👋
 A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Nodejs / Python | Django, Angular, Ionic, PHP | Laravel and some other cool libraries and frameworks.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellogabrielinnocent&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okellogabrielinnocent&layout=compact)](https://github.com/okellogabrielinnocent/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellogabrielinnocent&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okellogabrielinnocent&layout=compact)](https://github.com/okellogabrielinnocent/github-readme-stats)
 
 
 
