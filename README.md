@@ -5,7 +5,7 @@ A passionate Software Developer 🚀 having an experience of building Web and Mo
 Software Enginer
 CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE STACK
 
-Typescript|Angular | Python | Docker | html-5 | css3 | JavaScript | Nodejs | npm |sql-database | AWS | Postgres
+Typescript | JavaScript | Nodejs | Angular | Python | Docker | html-5 | css3 |sql-database | AWS | Postgres
 
 ⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications
 
