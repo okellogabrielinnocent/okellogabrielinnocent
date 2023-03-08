@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel 👋
 
-A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript | Nodejs | Python | Django | Angular  |Ionic | PHP | Laravel and some other cool libraries and frameworks.
+A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript | Nodejs | Python | Django | Angular  | Ionic | PHP | Laravel and some other cool libraries and frameworks.
 
 Software Enginer
 CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE STACK
