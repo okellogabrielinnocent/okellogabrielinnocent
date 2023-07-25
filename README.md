@@ -13,7 +13,7 @@ Typescript | JavaScript | Nodejs | Angular | Python | Docker | html-5 | css3 |sq
 
 ⚡ Integration of third-party services such as CodeClimate/ Heroku / AWS / Digital Ocean
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellogabrielinnocent&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellogabrielinnocent&show_icons=true&theme=radical)
 <codersrank-work-experience username="okellogabrielinnocent"></codersrank-work-experience>
 
 <!--
